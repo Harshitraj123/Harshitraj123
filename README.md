@@ -91,12 +91,12 @@ I am particularly interested in the complete product lifecycle: understanding th
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="Python Scikit-learn PyTorch TensorFlow"/>
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
-  <img src="https://matplotlib.org/_static/logo2.svg" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
 </p>
 
 ### 🎨 Frontend — MERN
