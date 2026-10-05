@@ -14,10 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -427,10 +426,9 @@ open_to:
 ## Connect
 
 <p align="center">
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:6D28D9,100:312E81&height=120&section=footer&animation=twinkling" width="100%"/>
