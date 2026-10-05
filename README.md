@@ -309,24 +309,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="72%" alt="LeetCode statistics"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=FFA116&center=true&vCenter=true&width=720&height=110&lines=Solving+DSA+Problems;Building+Better+Algorithms;Optimizing+Time+%26+Space;Learning+Every+Day;One+Problem+At+A+Time" alt="DSA solving animation"/>
 </p>
 
 ---
