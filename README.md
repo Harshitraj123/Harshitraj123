@@ -83,11 +83,11 @@ I am particularly interested in the complete product lifecycle: understanding th
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/google-adk.svg" width="48" height="48" alt="Google ADK"/>
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/mcp.svg" width="48" height="48" alt="MCP"/>
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/rag.svg" width="48" height="48" alt="RAG"/>
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS"/>
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/chroma.svg" width="48" height="48" alt="Chroma"/>
+  <img src="./assets/icons/google-adk.svg" width="48" height="48" alt="Google ADK"/>
+  <img src="./assets/icons/mcp.svg" width="48" height="48" alt="MCP"/>
+  <img src="./assets/icons/rag.svg" width="48" height="48" alt="RAG"/>
+  <img src="./assets/icons/faiss.svg" width="48" height="48" alt="FAISS"/>
+  <img src="./assets/icons/chroma.svg" width="48" height="48" alt="Chroma"/>
 </p>
 
 ### 🧠 Data Science & ML
