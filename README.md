@@ -348,23 +348,17 @@ Individual, project-based Data Science internship spanning analytics, machine le
 ## 🏆 Competitive Programming
 
 <p align="center">
+  <a href="https://leetcode.com/u/Harsheys_26/">
+    <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=unicorn&animation=true&cache=0" width="100%" alt="Animated LeetCode statistics for Harsheys_26"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/Harsheys_26/"><img src="https://img.shields.io/badge/LEETCODE-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/leetcode-card.svg" width="100%" alt="Animated LeetCode dashboard for Harsheys_26"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>Animated stats · difficulty progress · streak · submissions · contest metrics · automatically refreshed by GitHub Actions</sub>
-</p>
-
----
 
 ### ⚙️ Building Algorithms
 
@@ -418,6 +412,8 @@ Consistency · Patterns · Efficiency
 </table>
 
 [Open LeetCode Profile →](https://leetcode.com/u/Harsheys_26/)
+
+---
 
 ## Data Structures & Algorithms
 
