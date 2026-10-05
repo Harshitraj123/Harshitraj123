@@ -25,6 +25,15 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%2310B981&color_dots=%23E5E7EB,%23D1FAE5,%23A7F3D0,%2334D399,%2310B981
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23A78BFA&color_dots=%232d3343,%23312E81,%236D28D9,%23A78BFA,%2322D3EE
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build LeetCode animated card
+        run: |
+          python scripts/generate_leetcode_card.py
+
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
