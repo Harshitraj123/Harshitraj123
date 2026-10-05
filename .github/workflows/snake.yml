@@ -1,4 +1,4 @@
-name: Generate Contribution Animations
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -14,43 +14,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
 
     steps:
-      - name: Generate Pac-Man contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "pacman"
-          hide_month_labels: "false"
-
-      - name: Preserve Pac-Man assets
-        shell: bash
-        run: |
-          set -e
-          mkdir -p pacman-output
-          cp dist/pacman-contribution-graph.svg pacman-output/
-          cp dist/pacman-contribution-graph-dark.svg pacman-output/
-
-      - name: Generate contribution Snake SVGs
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2310B981&color_dots=%23E5E7EB,%23D1FAE5,%23A7F3D0,%2334D399,%2310B981
+            dist/github-contribution-grid-snake.svg?color_snake=%23A78BFA&color_dots=%232d3343,%23312E81,%236D28D9,%23A78BFA,%2322D3EE
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23A78BFA
 
-      - name: Restore Pac-Man assets
-        shell: bash
-        run: |
-          set -e
-          cp pacman-output/pacman-contribution-graph.svg dist/
-          cp pacman-output/pacman-contribution-graph-dark.svg dist/
-
-      - name: Publish all contribution animations
+      - name: Publish Snake assets to dedicated branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: snake-output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
