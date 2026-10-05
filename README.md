@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Harshit Raj GitHub Profile Banner" src="./light.svg" width="100%">
+</picture>
 # Hi, I'm Harshit Raj 👋
 
 ### Computer Science Engineering Student | Data Science • AI/ML • GenAI • LLMs • RAG • Agentic AI • Full-Stack
