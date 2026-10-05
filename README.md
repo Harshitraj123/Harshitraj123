@@ -83,11 +83,11 @@ I am particularly interested in the complete product lifecycle: understanding th
 </p>
 
 <p>
-  <img src="./assets/icons/google-adk.svg" width="48" height="48" alt="Google ADK"/>
-  <img src="./assets/icons/mcp.svg" width="48" height="48" alt="MCP"/>
-  <img src="./assets/icons/rag.svg" width="48" height="48" alt="RAG"/>
-  <img src="./assets/icons/faiss.svg" width="48" height="48" alt="FAISS"/>
-  <img src="./assets/icons/chroma.svg" width="48" height="48" alt="Chroma"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/MCP-5B21B6?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-312E81?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Chroma-4338CA?style=for-the-badge" alt="Chroma"/>
 </p>
 
 ### 🧠 Data Science & ML
