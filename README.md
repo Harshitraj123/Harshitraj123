@@ -30,18 +30,39 @@
 
 ## About
 
-I am a **3rd-year Computer Science Engineering student at BMS Institute of Technology & Management**, focused on building practical systems at the intersection of **Data Science, Machine Learning, Generative AI, and software engineering**.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-My work spans data analysis and supervised ML through **LLMs, RAG, agentic workflows, multi-agent systems, MCP, and Google ADK**. I am also strengthening frontend and backend skills so that AI ideas become complete, deployable applications rather than isolated notebooks.
+### 👤 Who am I?
 
-I care about reproducible workflows, structured outputs, testing, security checkpoints, and turning research concepts into usable products.
+- 🎓 **3rd-year B.E. Computer Science & Engineering** student at **BMS Institute of Technology & Management**
+- 📊 **CGPA: 9.06**
+- 🔬 Core focus: **Data Science, Machine Learning & AI/ML**
+- 🤖 Building with **GenAI, LLMs, RAG & Agentic AI**
+- 🔗 Working with **LangChain, LangGraph, Google ADK & MCP**
+- 🌐 Developing **Full-Stack AI applications**
+- 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
+- 🧩 Strengthening **Data Structures & Algorithms**
+- 🚀 Interested in turning AI concepts into practical software products
 
-### Open To
+### 🎯 Open To
 
-**Data Science Internships · AI/ML Internships · GenAI / AI Engineering Internships · Full-Stack Internships**
+**Data Science · AI/ML · GenAI / AI Engineering · Full-Stack Internships**
+
+</td>
+
+<td width="48%" valign="middle">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/GITHUB%20VIDEO.gif" width="100%" alt="Animated male programmer coding"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
-
 ## Profile Snapshot
 
 | | |
