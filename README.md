@@ -65,36 +65,26 @@ I am particularly interested in the complete product lifecycle: understanding th
 
 ## ⚡ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6" alt="Languages"/>
 </p>
 
-### 🎨 Frontend — MERN
+### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,vite&perline=6" alt="MERN frontend"/>
-</p>
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis&perline=7" alt="MERN backend and databases"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&perline=7" alt="Cloud DevOps tooling"/>
+  <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Chroma-4C1D95?style=flat-square&logoColor=white" alt="Chroma"/>
 </p>
 
 ### 🧠 Data Science & ML
@@ -109,28 +99,25 @@ I am particularly interested in the complete product lifecycle: understanding th
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/>
 </p>
 
-### 🤖 AI Engineering
+### 🎨 Frontend — MERN
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="48" height="48" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,vite&perline=6" alt="MERN frontend"/>
 </p>
+
+### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
-  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Chroma-4C1D95?style=flat-square&logoColor=white" alt="Chroma"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis&perline=7" alt="MERN backend and databases"/>
 </p>
 
-</td>
-</tr>
-</table>
+### ☁️ Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&perline=7" alt="Cloud DevOps tooling"/>
+</p>
+
+
 ---
 
 ## 🤖 AI / ML Expertise
