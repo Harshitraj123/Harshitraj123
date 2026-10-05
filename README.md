@@ -324,6 +324,22 @@ Individual, project-based Data Science internship spanning analytics, machine le
 
 ---
 
+## Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/Harsheys_26/">
+    <img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode — Harsheys_26"/>
+  </a>
+</p>
+
+I use competitive programming and structured DSA practice to strengthen **problem solving, algorithmic thinking, and coding fundamentals**.
+
+**Current focus:** Arrays · Linked Lists · Binary Search · Recursion · Trees · Graphs · Dynamic Programming · Greedy · Heaps · Tries · Sliding Window · Stacks & Queues · Bit Manipulation · Strings
+
+🔗 **LeetCode:** [Harsheys_26](https://leetcode.com/u/Harsheys_26/)
+
+---
+
 ## Data Structures & Algorithms
 
 Strengthening problem-solving fundamentals through structured DSA practice.
