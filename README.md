@@ -354,6 +354,14 @@ Worked in a practical data science environment focused on applying analytical an
 
 ---
 
+## 🕹️ Pac-Man Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/pacman-contribution-graph.svg" width="98%" alt="Pac-Man contribution graph"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
