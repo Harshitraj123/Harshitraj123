@@ -324,21 +324,44 @@ Individual, project-based Data Science internship spanning analytics, machine le
 
 ---
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode — Harsheys_26"/>
-  </a>
+  <a href="https://leetcode.com/u/Harsheys_26/"><img src="https://img.shields.io/badge/LEETCODE-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-I use competitive programming and structured DSA practice to strengthen **problem solving, algorithmic thinking, and coding fundamentals**.
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-**Current focus:** Arrays · Linked Lists · Binary Search · Recursion · Trees · Graphs · Dynamic Programming · Greedy · Heaps · Tries · Sliding Window · Stacks & Queues · Bit Manipulation · Strings
+<a href="https://leetcode.com/u/Harsheys_26/">
+  <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Karma&ext=heatmap,contest" width="100%" alt="Harsheys_26 LeetCode statistics"/>
+</a>
 
-🔗 **LeetCode:** [Harsheys_26](https://leetcode.com/u/Harsheys_26/)
+</td>
+<td width="45%" valign="top">
 
----
+### ⚙️ Building Algorithms
+
+| Track | Focus |
+|---|---|
+| 🧩 Foundations | Arrays · Strings · Linked Lists |
+| 🔎 Search | Binary Search · Sliding Window |
+| 🌳 Trees | Trees · Heaps · Tries |
+| 🕸️ Graphs | Graph Traversal · Graph Algorithms |
+| 🧠 Advanced | Dynamic Programming · Greedy |
+| 🔢 Core | Bit Manipulation · Stacks · Queues |
+
+**Primary goal:** consistent problem solving, pattern recognition, and writing efficient solutions.
+
+[Open LeetCode Profile →](https://leetcode.com/u/Harsheys_26/)
+
+</td>
+</tr>
+</table>
 
 ## Data Structures & Algorithms
 
