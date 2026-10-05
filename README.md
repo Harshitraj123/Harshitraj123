@@ -240,6 +240,55 @@ An early-stage LLM-focused project exploring the integration of language models 
 
 </details>
 
+
+
+## 🔬 More ML & Data Projects
+
+<details>
+<summary><strong>📉 Telecom Customer Churn Prediction</strong></summary>
+
+<br/>
+
+End-to-end binary classification system with leakage-safe preprocessing, model comparison, evaluation, persistence, a reusable prediction interface, Streamlit application and automated tests.
+
+**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit · Pytest · Joblib
+
+**Highlights:** Logistic Regression · Decision Tree · Random Forest · ROC-AUC · Recall · F1-score · Pipeline · ColumnTransformer
+
+[Repository →](https://github.com/Harshitraj123/Telecom-Customer-Churn-Prediction)
+
+</details>
+
+<details>
+<summary><strong>📊 Data Cleaning & Visualization — Retail Sales</strong></summary>
+
+<br/>
+
+End-to-end analytics project covering messy-data cleaning, EDA, visualization and an interactive Streamlit + Plotly dashboard.
+
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Streamlit · Jupyter
+
+**Highlights:** Data quality handling · Feature cleaning · EDA · Business insights · Interactive dashboard
+
+[Repository →](https://github.com/Harshitraj123/DataVisualization)
+
+</details>
+
+<details>
+<summary><strong>🩺 Stroke Risk Prediction</strong></summary>
+
+<br/>
+
+Imbalanced binary-classification project focused on leakage-safe preprocessing and evaluation with recall, F1-score, ROC-AUC and PR-AUC rather than accuracy alone.
+
+**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter
+
+**Highlights:** Class weighting · Stratified validation · Pipeline · ColumnTransformer · Model comparison · PR-AUC
+
+[Repository →](https://github.com/Harshitraj123/Stroke-Risk-Prediction)
+
+</details>
+
 ---
 
 ## 💼 Experience
@@ -347,13 +396,14 @@ Worked in a practical data science environment focused on applying analytical an
 
 ---
 
----
-
 ## 🌌 Contribution Activity
 
 <p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=Harshitraj123&theme=dark&days=365&hide_border=true" width="98%" alt="GitHub contribution activity"/>
+  <strong>Live contribution activity — automatically refreshed by GitHub Actions</strong>
 </p>
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
