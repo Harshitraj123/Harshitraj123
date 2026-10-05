@@ -354,23 +354,15 @@ Individual, project-based Data Science internship spanning analytics, machine le
   <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="middle">
-
-<a href="https://leetcode.com/u/Harsheys_26/">
-  <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="400" alt="Harsheys_26 LeetCode statistics"/>
-</a>
-
-    </td>
-    <td align="center" width="50%" valign="middle">
-
-<a href="https://leetcode.com/u/Harsheys_26/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Building algorithms animation"/>
-</a>
-
-    </td>
-  </tr>
+<table width="100%" align="center" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://leetcode.com/u/Harsheys_26/"><img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="100%" alt="LeetCode statistics for Harsheys_26"/></a>
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=FFA116&center=true&vCenter=true&width=460&height=100&lines=Solving+Complex+DSA;Building+Better+Algorithms;Optimizing+Time+%26+Space;One+Problem+At+A+Time" alt="DSA animation"/>
+</td>
+</tr>
 </table>
 
 ---
