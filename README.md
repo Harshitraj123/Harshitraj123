@@ -38,6 +38,10 @@
 
 ## 👨‍💻 About
 
+<table width="100%">
+<tr>
+<td width="54%" valign="top">
+
 I am a **3rd-year B.E. Computer Science & Engineering student at BMS Institute of Technology & Management**, focused on building practical software at the intersection of **Data Science, Machine Learning, Generative AI and full-stack engineering**.
 
 My engineering approach combines strong programming fundamentals with modern AI systems. I work with **Python, Java and C++**, build data workflows with the Python ecosystem, and develop AI applications using **LLMs, RAG, Agentic AI, LangChain, LangGraph, Google ADK and MCP**.
@@ -48,6 +52,15 @@ I am particularly interested in the complete product lifecycle: understanding th
 
 **Data Science · AI/ML · GenAI / AI Engineering · Full-Stack AI Internships**
 
+</td>
+
+<td width="46%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/GITHUB%20VIDEO.gif" width="100%" alt="Animated coding assistant"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Stack
@@ -338,7 +351,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshitraj123&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/profile-widgets/github-trophy.svg" width="100%" alt="GitHub trophies"/>
 </p>
 
 ---
@@ -346,7 +359,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🌌 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitraj123&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/profile-widgets/activity-graph.svg" width="98%" alt="GitHub contribution activity"/>
 </p>
 
 ---
