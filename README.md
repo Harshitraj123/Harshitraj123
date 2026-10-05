@@ -100,13 +100,23 @@ I am particularly interested in the complete product lifecycle: understanding th
 ### 🧠 Data Science & ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,matplotlib,seaborn,streamlit" alt="Data Science and Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="Data Science and Machine Learning"/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/seaborn/4C9A8A" width="48" height="48" alt="Seaborn"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
 ### 🤖 AI Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,huggingface,openai,ollama,langchain,langgraph" alt="AI Engineering"/>
+  <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/1C1C1C" width="48" height="48" alt="LangGraph"/>
 </p>
 
 <p>
@@ -347,7 +357,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/profile-widgets/github-trophy.svg" width="100%" alt="GitHub trophies"/>
+  <img src="https://trophy.benkou.dev/?username=Harshitraj123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
 </p>
 
 ---
@@ -355,7 +365,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🌌 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/profile-widgets/activity-graph.svg" width="98%" alt="GitHub contribution activity"/>
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=Harshitraj123&theme=dark&days=365&hide_border=true" width="98%" alt="GitHub contribution activity"/>
 </p>
 
 ---
