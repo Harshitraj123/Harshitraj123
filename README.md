@@ -219,24 +219,6 @@ A machine-learning project that processes student data, applies preprocessing pi
 
 </details>
 
-<details>
-<summary><strong>🔎 Search Engine LLM</strong></summary>
-
-<br/>
-
-An early-stage LLM-focused project exploring the integration of language models into search-oriented applications.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · LLM tooling |
-| **Scale** | Experimental AI application |
-| **Performance** | Iterative prototype stage |
-| **Security** | API credentials should remain environment-managed |
-| **Impact** | Exploring practical LLM integration for search experiences |
-| **Repository** | [HarshitRaj123/Search-Engine-LLM](https://github.com/Harshitraj123/Search-Engine-LLM) |
-
-</details>
-
 ---
 
 ## 💼 Experience
@@ -293,15 +275,8 @@ Worked in a practical data science environment focused on applying analytical an
 ### 🟣 Google / Coursera
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Coursera-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials"/>
-  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-Coursera-4C1D95?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials"/>
-</p>
-
-### 🟪 Additional Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Coursera-AI%20%26%20Generative%20AI-5B21B6?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
-  <img src="https://img.shields.io/badge/Udemy-Data%20Science%20%26%20AI-312E81?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials%20Specialization-Coursera-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials Specialization"/>
+  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials%20Specialization-Coursera-4C1D95?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials Specialization"/>
 </p>
 
 ---
@@ -311,15 +286,6 @@ Worked in a practical data science environment focused on applying analytical an
 <p align="center">
   <a href="https://leetcode.com/u/Harsheys_26/">
     <img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
@@ -338,16 +304,6 @@ Worked in a practical data science environment focused on applying analytical an
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=DDD6FE&icon_color=7C3AED" width="55%" alt="Top languages"/>
-</p>
-
----
-
----
-
-## 🌌 Contribution Activity
-
-<p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=Harshitraj123&theme=dark&days=365&hide_border=true" width="98%" alt="GitHub contribution activity"/>
 </p>
 
 ---
