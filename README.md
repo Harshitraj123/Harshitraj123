@@ -75,16 +75,16 @@ I am particularly interested in the complete product lifecycle: understanding th
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Languages"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend — MERN
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis" alt="Backend and databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis" alt="Backend and databases"/>
 </p>
 
 </td>
@@ -94,34 +94,30 @@ I am particularly interested in the complete product lifecycle: understanding th
 ### ☁️ Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Cloud DevOps tooling"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" alt="Cloud DevOps tooling"/>
 </p>
 
 ### 🧠 Data Science & ML
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-312E81?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-4338CA?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-5B21B6?style=flat-square&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-6D28D9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-4C1D95?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,matplotlib,seaborn,streamlit" alt="Data Science and Machine Learning"/>
 </p>
 
 ### 🤖 AI Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-312E81?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-4C1D95?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,huggingface,openai,ollama,langchain,langgraph" alt="AI Engineering"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
 </p>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🤖 AI / ML Expertise
