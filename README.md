@@ -72,19 +72,19 @@ I am particularly interested in the complete product lifecycle: understanding th
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend — MERN
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,vite&perline=6" alt="MERN frontend"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis" alt="Backend and databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis&perline=7" alt="MERN backend and databases"/>
 </p>
 
 </td>
@@ -94,18 +94,19 @@ I am particularly interested in the complete product lifecycle: understanding th
 ### ☁️ Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" alt="Cloud DevOps tooling"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm&perline=7" alt="Cloud DevOps tooling"/>
 </p>
 
 ### 🧠 Data Science & ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="Data Science and Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="Python Scikit-learn PyTorch TensorFlow"/>
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib"/>
-  <img src="https://cdn.simpleicons.org/seaborn/4C9A8A" width="48" height="48" alt="Seaborn"/>
+  <img src="https://matplotlib.org/_static/logo2.svg" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/>
 </p>
 
 ### 🤖 AI Engineering
@@ -113,16 +114,18 @@ I am particularly interested in the complete product lifecycle: understanding th
 <p>
   <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="48" height="48" alt="OpenAI"/>
   <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/langgraph/1C1C1C" width="48" height="48" alt="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
   <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Chroma-4C1D95?style=flat-square&logoColor=white" alt="Chroma"/>
 </p>
 
 </td>
@@ -357,7 +360,7 @@ Worked in a practical data science environment focused on applying analytical an
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=Harshitraj123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=Harshitraj123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
 </p>
 
 ---
