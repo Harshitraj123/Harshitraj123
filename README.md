@@ -354,35 +354,70 @@ Individual, project-based Data Science internship spanning analytics, machine le
   <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <a href="https://leetcode.com/u/Harsheys_26/">
+    <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/leetcode-card.svg" width="100%" alt="Animated LeetCode dashboard for Harsheys_26"/>
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/Harsheys_26/">
-  <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Karma&ext=heatmap,contest" width="100%" alt="Harsheys_26 LeetCode statistics"/>
-</a>
+<p align="center">
+  <sub>Animated stats · difficulty progress · streak · submissions · contest metrics · automatically refreshed by GitHub Actions</sub>
+</p>
 
-</td>
-<td width="45%" valign="top">
+---
 
 ### ⚙️ Building Algorithms
 
-| Track | Focus |
-|---|---|
-| 🧩 Foundations | Arrays · Strings · Linked Lists |
-| 🔎 Search | Binary Search · Sliding Window |
-| 🌳 Trees | Trees · Heaps · Tries |
-| 🕸️ Graphs | Graph Traversal · Graph Algorithms |
-| 🧠 Advanced | Dynamic Programming · Greedy |
-| 🔢 Core | Bit Manipulation · Stacks · Queues |
+<table align="center">
+<tr>
+<td width="33%">
 
-**Primary goal:** consistent problem solving, pattern recognition, and writing efficient solutions.
+**🧩 Foundations**
 
-[Open LeetCode Profile →](https://leetcode.com/u/Harsheys_26/)
+Arrays · Strings · Linked Lists
+
+</td>
+<td width="33%">
+
+**🔎 Search**
+
+Binary Search · Sliding Window
+
+</td>
+<td width="33%">
+
+**🌳 Trees & Graphs**
+
+Trees · Heaps · Tries · Graphs
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+**🧠 Advanced**
+
+Dynamic Programming · Greedy
+
+</td>
+<td width="33%">
+
+**🔢 Core**
+
+Bit Manipulation · Stacks · Queues
+
+</td>
+<td width="33%">
+
+**🎯 Goal**
+
+Consistency · Patterns · Efficiency
 
 </td>
 </tr>
 </table>
+
+[Open LeetCode Profile →](https://leetcode.com/u/Harsheys_26/)
 
 ## Data Structures & Algorithms
 
