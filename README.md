@@ -75,31 +75,28 @@ I am particularly interested in the complete product lifecycle: understanding th
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="48" height="48" alt="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" width="48" height="48" alt="Ollama"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langgraph/langgraph-original.svg" width="48" height="48" alt="LangGraph"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20ADK-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
-  <img src="https://img.shields.io/badge/MCP-5B21B6?style=for-the-badge" alt="MCP"/>
-  <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-312E81?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Chroma-4338CA?style=for-the-badge" alt="Chroma"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Chroma-4C1D95?style=flat-square&logoColor=white" alt="Chroma"/>
 </p>
 
 ### 🧠 Data Science & ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="Python Scikit-learn PyTorch TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
+  <img src="https://matplotlib.org/_static/logo2.svg" width="48" height="48" alt="Matplotlib"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter"/>
 </p>
 
 ### 🎨 Frontend — MERN
@@ -240,55 +237,6 @@ An early-stage LLM-focused project exploring the integration of language models 
 
 </details>
 
-
-
-## 🔬 More ML & Data Projects
-
-<details>
-<summary><strong>📉 Telecom Customer Churn Prediction</strong></summary>
-
-<br/>
-
-End-to-end binary classification system with leakage-safe preprocessing, model comparison, evaluation, persistence, a reusable prediction interface, Streamlit application and automated tests.
-
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit · Pytest · Joblib
-
-**Highlights:** Logistic Regression · Decision Tree · Random Forest · ROC-AUC · Recall · F1-score · Pipeline · ColumnTransformer
-
-[Repository →](https://github.com/Harshitraj123/Telecom-Customer-Churn-Prediction)
-
-</details>
-
-<details>
-<summary><strong>📊 Data Cleaning & Visualization — Retail Sales</strong></summary>
-
-<br/>
-
-End-to-end analytics project covering messy-data cleaning, EDA, visualization and an interactive Streamlit + Plotly dashboard.
-
-**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Streamlit · Jupyter
-
-**Highlights:** Data quality handling · Feature cleaning · EDA · Business insights · Interactive dashboard
-
-[Repository →](https://github.com/Harshitraj123/DataVisualization)
-
-</details>
-
-<details>
-<summary><strong>🩺 Stroke Risk Prediction</strong></summary>
-
-<br/>
-
-Imbalanced binary-classification project focused on leakage-safe preprocessing and evaluation with recall, F1-score, ROC-AUC and PR-AUC rather than accuracy alone.
-
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter
-
-**Highlights:** Class weighting · Stratified validation · Pipeline · ColumnTransformer · Model comparison · PR-AUC
-
-[Repository →](https://github.com/Harshitraj123/Stroke-Risk-Prediction)
-
-</details>
-
 ---
 
 ## 💼 Experience
@@ -396,14 +344,13 @@ Worked in a practical data science environment focused on applying analytical an
 
 ---
 
+---
+
 ## 🌌 Contribution Activity
 
 <p align="center">
-  <strong>Live contribution activity — automatically refreshed by GitHub Actions</strong>
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/activity-graph?username=Harshitraj123&theme=dark&days=365&hide_border=true" width="98%" alt="GitHub contribution activity"/>
 </p>
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- END ACTIVITY-GRAPH -->
 
 ---
 
