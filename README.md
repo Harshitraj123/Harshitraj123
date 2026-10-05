@@ -1,61 +1,108 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=HARSHIT%20RAJ&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20AI%2FML%20%7C%20GENAI%20%7C%20FULL-STACK&descSize=18&descAlignY=68" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=190&section=header&text=Harshit%20Raj&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20GenAI%20%E2%80%A2%20Full-Stack%20Engineering&descAlignY=61&descSize=18&descColor=DDD6FE" width="100%" alt="Harshit Raj header"/>
+</p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=55&lines=Building+Practical+AI+Systems;Data+Science+%E2%86%92+ML+%E2%86%92+GenAI+%E2%86%92+Agentic+AI;AI+Engineering+%2B+Full-Stack+Development" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Building+AI-powered+software+systems;Engineering+with+ML%2C+LLMs%2C+RAG+%26+Agents;Turning+ideas+into+production-ready+products;Learning%2C+building%2C+shipping." alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BMSIT-B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BMSIT CSE"/>
+  <img src="https://img.shields.io/badge/2024--2028-Batch-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" alt="2024-2028"/>
+  <img src="https://img.shields.io/badge/CGPA-9.06-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA 9.06"/>
+  <img src="https://img.shields.io/badge/Bangalore-India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangalore India"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Harshitraj123/Portfolio-">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshitraj010204">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshitraj13579@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Harshitraj123">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CSE-BMSIT-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.E. CSE"/>
-  <img src="https://img.shields.io/badge/CGPA-9.06-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/2024%E2%80%932028-3rd%20Year-4338CA?style=for-the-badge&logo=calendar&logoColor=white" alt="Academic year"/>
-  <img src="https://img.shields.io/badge/Bangalore%2C%20India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitraj123&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Harshitraj123?style=for-the-badge&label=FOLLOWERS&color=6366F1&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Harshitraj123/Harshitraj123?style=for-the-badge&label=PROFILE+STARS&color=4F46E5&logo=github" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Harshitraj123&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Harshitraj123?style=for-the-badge&color=4C1D95&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Harshitraj123?style=for-the-badge&color=7C3AED&label=STARS&logo=github" alt="GitHub stars"/>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About
 
-<table>
-<tr>
-<td width="52%" valign="top">
+I am a **3rd-year B.E. Computer Science & Engineering student at BMS Institute of Technology & Management**, focused on building practical software at the intersection of **Data Science, Machine Learning, Generative AI and full-stack engineering**.
 
-### 👤 Who am I?
+My engineering approach combines strong programming fundamentals with modern AI systems. I work with **Python, Java and C++**, build data workflows with the Python ecosystem, and develop AI applications using **LLMs, RAG, Agentic AI, LangChain, LangGraph, Google ADK and MCP**.
 
-- 🎓 **3rd-year B.E. Computer Science & Engineering** student at **BMS Institute of Technology & Management**
-- 📊 **CGPA: 9.06**
-- 🔬 Core focus: **Data Science, Machine Learning & AI/ML**
-- 🤖 Building with **GenAI, LLMs, RAG & Agentic AI**
-- 🔗 Working with **LangChain, LangGraph, Google ADK & MCP**
-- 🌐 Developing **Full-Stack AI applications**
-- 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
-- 🧩 Strengthening **Data Structures & Algorithms**
-- 🚀 Interested in turning AI concepts into practical software products
+I am particularly interested in the complete product lifecycle: understanding the problem, designing the architecture, implementing the system, integrating AI capabilities, exposing reliable APIs, and turning prototypes into maintainable software.
 
 ### 🎯 Open To
 
-**Data Science · AI/ML · GenAI / AI Engineering · Full-Stack Internships**
+**Data Science · AI/ML · GenAI / AI Engineering · Full-Stack AI Internships**
+
+---
+
+## ⚡ Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Languages"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis" alt="Backend and databases"/>
+</p>
 
 </td>
 
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/GITHUB%20VIDEO.gif" width="100%" alt="Animated male programmer coding"/>
+### ☁️ Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Cloud DevOps tooling"/>
+</p>
+
+### 🧠 Data Science & ML
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-312E81?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-4338CA?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-5B21B6?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-6D28D9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-4C1D95?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🤖 AI Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-312E81?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4C1D95?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white"/>
 </p>
 
 </td>
@@ -63,406 +110,285 @@
 </table>
 
 ---
-## Profile Snapshot
 
-| | |
-|---|---|
-| 🔬 **Core** | Data Science · Machine Learning · AI/ML |
-| 🤖 **AI** | GenAI · LLMs · RAG · Agentic AI · Multimodal AI |
-| 🧠 **Frameworks** | LangChain · LangGraph · Google ADK · MCP |
-| 🌐 **Frontend** | HTML · CSS · JavaScript · React |
-| 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB |
-| 🐍 **Primary Language** | Python |
-| 🧩 **Problem Solving** | Data Structures & Algorithms |
-| 🎯 **Status** | Building · Learning · Shipping |
-| 💼 **Looking For** | Data Science · AI/ML · GenAI · Full-Stack Internships |
-
----
-
----
-
-## Tech Stack
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Programming languages"/>
-</p>
-
-### Data Science & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="Data science and ML"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=4F46E5"/>
-  <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=6366F1"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-0F172A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Plotly-0F172A?style=flat-square&logo=plotly&logoColor=8B5CF6"/>
-  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend"/>
-</p>
-
-### Backend, Databases & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb,redis,docker,git,github,vscode" alt="Backend databases and tooling"/>
-</p>
-
-### GenAI, Agents & Retrieval
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20ADK-111827?style=for-the-badge&logo=google&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=F55036"/>
-  <img src="https://img.shields.io/badge/Tavily-111827?style=for-the-badge&logoColor=8B5CF6"/>
-  <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge&logoColor=0468D7"/>
-  <img src="https://img.shields.io/badge/Chroma-111827?style=for-the-badge&logoColor=FF6F61"/>
-  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-</p>
-
----
-
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Data Science | Applied | Data cleaning, EDA, feature engineering, visualization, business insights |
-| Machine Learning | Applied | Supervised learning, classification, regression, model comparison, evaluation |
-| Deep Learning / NLP | Building | Neural-network and NLP foundations, moving toward transformer-based systems |
-| Generative AI | Applied | LLM application patterns, structured generation, tool use, research workflows |
-| RAG | Applied | Retrieval pipelines, vector stores, embeddings, contextual Q&A |
-| Agentic AI | Applied | Planning, decomposition, routing, retries, specialized agents |
-| Multi-Agent Systems | Building | Orchestrator + specialist-agent patterns using Google ADK / LangGraph |
-| MCP | Building | Tool integration and agent-to-tool workflows |
-| AI + Full-Stack | Building | Combining AI workflows with web interfaces and APIs |
+| **Data Science** | Hands-on | EDA, data cleaning, feature engineering, visualization and analytical workflows |
+| **Machine Learning** | Hands-on | Regression, classification, tree-based models, evaluation and model experimentation |
+| **Deep Learning** | Working | Neural-network fundamentals, representation learning and applied experimentation |
+| **NLP** | Working | Text processing, embeddings, semantic search and LLM-oriented workflows |
+| **Generative AI** | Hands-on | Prompt engineering, LLM applications, structured outputs and AI-assisted workflows |
+| **RAG** | Hands-on | Document ingestion, chunking, embeddings, vector search and retrieval pipelines |
+| **Agentic AI** | Hands-on | Multi-agent orchestration, planning, tools, subagents and workflow-based execution |
+| **LLM Engineering** | Working | LangChain, LangGraph, model integrations, structured outputs and context engineering |
+| **AI Infrastructure** | Working | FastAPI services, MCP integration, Google ADK, vector databases and application integration |
 
 ---
 
-## Featured Projects
+## 💼 Featured Projects
 
 <details>
-<summary><strong>🔬 AI Research Synthesizer</strong></summary>
+<summary><strong>🧓 Elderly Care Assistant — Secure Multi-Agent AI System</strong></summary>
 
-An autonomous deep-research system built around a multi-node LangGraph workflow.
+<br/>
 
-| Area | Implementation |
+A security-focused **multi-agent concierge system** built with Google Agent Development Kit to support elderly-care workflows such as medication information, appointment scheduling and caregiver alerts.
+
+| Attribute | Details |
 |---|---|
-| Stack | Python · LangGraph · LangChain · Groq · Tavily · Streamlit |
-| Scale | Multi-node research workflow with stateful execution |
-| Performance | Conditional routing, search retries, streamed execution |
-| Security | Structured state and controlled tool-driven workflow |
-| Impact | Converts complex research questions into source-backed Markdown reports |
-| Repository | [AI-Research-Synthesizer](https://github.com/Harshitraj123/AI-Research-Synthesizer) |
+| **Stack** | Python · Google ADK 2.0 · FastAPI · MCP · Gemini |
+| **Scale** | Multi-agent architecture with orchestrator, medication specialist and appointment scheduler |
+| **Performance** | Interactive ADK playground with FastAPI backend for service execution |
+| **Security** | Security checkpoint, prompt-injection detection, PII scrubbing and controlled dosage-related actions |
+| **Impact** | Automates routine care workflows while introducing caregiver review for sensitive actions |
+| **Repository** | [HarshitRaj123/elderly-care-assistant](https://github.com/Harshitraj123/elderly-care-assistant) |
 
-**Core capabilities:** query decomposition, live web research, state management, conditional routing, automatic retries, source preservation, structured report generation.
+### Engineering Scope
+
+- Multi-agent orchestration with specialized domain agents
+- MCP tools for medication information, compatibility checks, calendar access, appointments and caregiver alerts
+- Human-in-the-loop caregiver approval workflow
+- Security checkpoint before agent execution
+- FastAPI backend and local developer playground
 
 </details>
 
 <details>
 <summary><strong>🧠 AI Research & Deep Agent Assistant</strong></summary>
 
-A research assistant built around Deep Agents and LangGraph for multi-step research workflows.
+<br/>
 
-| Area | Implementation |
+An AI research application designed to go beyond a basic chatbot by combining **planning, web research, specialized subagents, reusable skills, memory, file handling and structured outputs**.
+
+| Attribute | Details |
 |---|---|
-| Stack | Python · LangChain · LangGraph · Deep Agents · Groq · Tavily · Streamlit · Pydantic |
-| Scale | Planning + specialized subagent workflow |
-| Performance | Thread-based memory and checkpointing |
-| Security | Structured outputs with Pydantic validation |
-| Impact | Reusable research workflow with skills and virtual file handling |
-| Repository | [AI-Research-Deep-Agent](https://github.com/Harshitraj123/AI-Research-Deep-Agent) |
+| **Stack** | Python · LangChain · LangGraph · Deep Agents · Groq · Tavily · Streamlit · Pydantic |
+| **Scale** | Deep-agent orchestration with planning, research subagents, skills and configurable backends |
+| **Performance** | Groq-powered inference and tool-driven research workflows |
+| **Security** | Environment-based API key management and structured validation |
+| **Impact** | Automates multi-step technical research and converts findings into structured outputs |
+| **Repository** | [HarshitRaj123/AI-Research-Deep-Agent](https://github.com/Harshitraj123/AI-Research-Deep-Agent) |
 
-</details>
+### Engineering Scope
 
-<details>
-<summary><strong>👴 Elder Care Assistant</strong></summary>
-
-A secure multi-agent elderly-care assistant for medication workflows, appointment coordination, and caregiver alerts.
-
-| Area | Implementation |
-|---|---|
-| Stack | Google ADK · MCP · FastAPI · Python |
-| Scale | Multi-agent concierge architecture |
-| Performance | Tool-driven orchestration across specialist agents |
-| Security | Security checkpoint, prompt-injection detection, dosage-change domain rule |
-| Impact | Coordinates medication checks, appointments, and caregiver escalation |
-| Repository | [elderly-care-assistant](https://github.com/Harshitraj123/elderly-care-assistant) |
-
-**Agents:** Orchestrator · Medication Specialist · Appointment Scheduler
-
-</details>
-
-<details>
-<summary><strong>🎥 AI Video Intelligence Assistant</strong></summary>
-
-An AI system for video transcription, summarization, insight extraction, and RAG-based conversational Q&A.
-
-| Area | Implementation |
-|---|---|
-| Stack | Python · LLMs · RAG · Video Intelligence |
-| Scale | End-to-end video understanding workflow |
-| Performance | Retrieval-based context for conversational analysis |
-| Security | Controlled application workflow and retrieval boundary |
-| Impact | Turns long-form video content into searchable, queryable knowledge |
-| Repository | [AI-video-intelligence-assistant](https://github.com/Harshitraj123/AI-video-intelligence-assistant) |
-
-</details>
-
-<details>
-<summary><strong>📊 Telecom Customer Churn Prediction</strong></summary>
-
-An end-to-end supervised ML application for telecom churn prediction.
-
-| Area | Implementation |
-|---|---|
-| Stack | Python · Pandas · Scikit-learn · Streamlit · Joblib · Pytest |
-| Scale | Dataset-level batch training + inference application |
-| Performance | Leakage-safe preprocessing and model comparison |
-| Security | Data leakage controls and automated tests |
-| Impact | Compares Logistic Regression, Decision Tree, and Random Forest with ROC-AUC evaluation |
-| Repository | [Telecom-Customer-Churn-Prediction](https://github.com/Harshitraj123/Telecom-Customer-Churn-Prediction) |
-
-</details>
-
-<details>
-<summary><strong>🧠 Stroke Risk Prediction</strong></summary>
-
-Exploratory analysis and binary classification on a heavily imbalanced healthcare dataset.
-
-| Area | Implementation |
-|---|---|
-| Stack | Python · Pandas · Scikit-learn |
-| Focus | Data cleaning · EDA · imbalance-aware classification |
-| Repository | [Stroke-Risk-Prediction](https://github.com/Harshitraj123/Stroke-Risk-Prediction) |
+- Agentic planning through task decomposition
+- Tavily-powered web research
+- Specialized research subagents
+- Skills-based context engineering
+- LangGraph checkpointing and thread memory
+- Virtual file management
+- Structured output with Pydantic
+- Streamlit application interface
 
 </details>
 
 <details>
 <summary><strong>🎓 Student Performance Predictor</strong></summary>
 
-An end-to-end regression project for predicting student exam performance.
+<br/>
 
-| Area | Implementation |
+A machine-learning project that processes student data, applies preprocessing pipelines, trains multiple regression models and selects the strongest model through evaluation and hyperparameter optimization.
+
+| Attribute | Details |
 |---|---|
-| Stack | Python · Data preprocessing · Regression · Hyperparameter tuning |
-| Focus | Model comparison and predictive performance |
-| Repository | [Student-Performance-Predictor](https://github.com/Harshitraj123/Student-Performance-Predictor) |
+| **Stack** | Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter |
+| **Scale** | End-to-end supervised learning workflow with multiple model families |
+| **Performance** | Best reported model: CatBoost Regressor with approximately **0.88 R²** |
+| **Security** | Local ML workflow with no external credential or authentication layer |
+| **Impact** | Demonstrates preprocessing, model comparison and tuning for predictive analytics |
+| **Repository** | [HarshitRaj123/Student-Performance-Predictor](https://github.com/Harshitraj123/Student-Performance-Predictor) |
+
+### Engineering Scope
+
+- Data ingestion and preprocessing
+- Missing-value handling, encoding and scaling
+- Linear Regression, Decision Tree, Random Forest and CatBoost experimentation
+- GridSearchCV / RandomizedSearchCV optimization
+- R²-based model evaluation
 
 </details>
 
 <details>
-<summary><strong>☕ Coffee Shop Sales EDA</strong></summary>
+<summary><strong>🔎 Search Engine LLM</strong></summary>
 
-Exploratory analysis of point-of-sale transactions to identify product, store, revenue, and customer patterns.
+<br/>
 
-| Area | Implementation |
+An early-stage LLM-focused project exploring the integration of language models into search-oriented applications.
+
+| Attribute | Details |
 |---|---|
-| Stack | Python · Pandas · Visualization |
-| Focus | Data cleaning · EDA · business insights |
-| Repository | [Coffee-Shop-Sales-EDA](https://github.com/Harshitraj123/Coffee-Shop-Sales-EDA) |
-
-</details>
-
-<details>
-<summary><strong>📊 Retail Sales Data Visualization</strong></summary>
-
-Data cleaning, exploratory analysis, visualization, and dashboard development on retail sales data.
-
-| Area | Implementation |
-|---|---|
-| Stack | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Streamlit |
-| Focus | Interactive analytics and dashboarding |
-| Repository | [DataVisualization](https://github.com/Harshitraj123/DataVisualization) |
+| **Stack** | Python · LLM tooling |
+| **Scale** | Experimental AI application |
+| **Performance** | Iterative prototype stage |
+| **Security** | API credentials should remain environment-managed |
+| **Impact** | Exploring practical LLM integration for search experiences |
+| **Repository** | [HarshitRaj123/Search-Engine-LLM](https://github.com/Harshitraj123/Search-Engine-LLM) |
 
 </details>
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Data Science Intern — Thiranex
-**30 August 2026 – 29 September 2026**
 
-Individual, project-based Data Science internship spanning analytics, machine learning, and AI systems.
+**August 30, 2026 – September 29, 2026**
 
-- Built and documented projects across **EDA, feature engineering, supervised ML, model evaluation, and agentic AI**.
-- Worked on **Stroke Risk Prediction**, **Coffee Shop Sales EDA**, and **Telecom Customer Churn Prediction**.
-- Applied leakage-safe preprocessing, model comparison, evaluation metrics, and application packaging.
-- Explored **Deep Agents, LangGraph, LLM workflows, and research automation**.
-- Strengthened practical engineering habits around reproducibility, testing, and structured workflows.
+Worked in a practical data science environment focused on applying analytical and machine-learning workflows to real-world problem solving.
 
-**Skills:** `Python` `Pandas` `Scikit-learn` `EDA` `Feature Engineering` `ML` `LLMs` `Agentic AI`
+**Scope of Work**
 
----
+- Worked with structured datasets and Python-based data workflows
+- Applied data preprocessing and exploratory analysis techniques
+- Practiced feature-oriented analysis for machine-learning tasks
+- Worked through model experimentation and evaluation workflows
+- Translated analytical findings into practical engineering outputs
 
-## Achievements
+**Skills**
 
-<p align="center">
-
-| Recognition | Details |
-|---|---|
-| **CNI Summer School 2026** | Selected participant for **Model Approximation in MDPs and POMDPs** |
-| **LeetCode Practice** | Maintained a **21-day problem-solving streak** |
-| **Academic Performance** | **9.06 CGPA** in B.E. Computer Science & Engineering |
-
-</p>
+`Python` `Pandas` `NumPy` `EDA` `Feature Engineering` `Machine Learning`
 
 ---
 
-## Certifications
+## 🏆 Achievements
 
-### Google
-[![Google AI Essentials](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/)
-
-[![Google Prompting Essentials](https://img.shields.io/badge/Google-Prompting%20Essentials-6366F1?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/)
-
-### Kaggle
-[![Kaggle AI Agents](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
-
-### Udemy
-[![Complete Data Science Bootcamp](https://img.shields.io/badge/Udemy-Data%20Science%20%7C%20ML%20%7C%20DL%20%7C%20NLP-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-0F9D58?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
-
-<p align="center">
-  <sub>Personal coding-profile URLs are intentionally not guessed; platform buttons above link to the corresponding services.</sub>
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/"><img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-</p>
-
-<table width="100%" align="center" cellpadding="8" cellspacing="0">
+<table align="center" width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
-<a href="https://leetcode.com/u/Harsheys_26/"><img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="100%" alt="LeetCode statistics for Harsheys_26"/></a>
-</td>
-<td width="50%" align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=FFA116&center=true&vCenter=true&width=460&height=100&lines=Solving+Complex+DSA;Building+Better+Algorithms;Optimizing+Time+%26+Space;One+Problem+At+A+Time" alt="DSA animation"/>
-</td>
+<th>Recognition</th>
+<th>Details</th>
+</tr>
+<tr>
+<td align="center"><strong>🎓 Academic Performance</strong></td>
+<td>Maintaining a <strong>9.06 CGPA</strong> in B.E. Computer Science & Engineering</td>
+</tr>
+<tr>
+<td align="center"><strong>🔬 CNI Summer School 2026</strong></td>
+<td>Selected for the summer school on <strong>Model Approximation in MDPs and POMDPs</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>🤖 AI Engineering</strong></td>
+<td>Built a secure multi-agent elderly-care system using Google ADK, MCP and FastAPI</td>
+</tr>
+<tr>
+<td align="center"><strong>🧠 Agentic AI</strong></td>
+<td>Built a research-oriented Deep Agent application using LangChain, LangGraph, Groq and Tavily</td>
 </tr>
 </table>
 
 ---
 
-## Data Structures & Algorithms
+## 📜 Certifications
 
-Strengthening problem-solving fundamentals through structured DSA practice.
+### 🟣 Google / Coursera
 
-`Arrays` · `Linked Lists` · `Binary Search` · `Recursion`  
-`Trees` · `Graphs` · `Dynamic Programming` · `Greedy`  
-`Heaps` · `Tries` · `Sliding Window` · `Stacks & Queues`  
-`Bit Manipulation` · `Strings`
-
-### Learning Direction
-
-```text
-Data Science
-    ↓
-Machine Learning
-    ↓
-Deep Learning / NLP
-    ↓
-Generative AI
-    ↓
-LLMs
-    ↓
-RAG
-    ↓
-Agentic AI
-    ↓
-MCP / Multi-Agent Systems
-    ↓
-AI + Full-Stack Applications
-```
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitraj123&show_icons=true&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Harshitraj123&theme=tokyonight&hide_border=true&border_radius=14&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180" alt="GitHub streak"/>
+<p>
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Coursera-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials"/>
+  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-Coursera-4C1D95?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top languages"/>
+### 🟪 Additional Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Coursera-AI%20%26%20Generative%20AI-5B21B6?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+  <img src="https://img.shields.io/badge/Udemy-Data%20Science%20%26%20AI-312E81?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
 </p>
 
 ---
 
-## GitHub Trophies
+## 🧩 Coding Profiles
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshitraj123&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=12&margin-h=12" alt="GitHub trophies"/>
+  <a href="https://leetcode.com/u/Harsheys_26/">
+    <img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Harsheys_26/">
+    <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="72%" alt="LeetCode statistics"/>
+  </a>
 </p>
 
 ---
 
-## Contribution Activity
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitraj123&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitraj123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=DDD6FE" width="49%" alt="GitHub statistics"/>
+  <img src="https://streak-stats.demolab.com?user=Harshitraj123&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=F5F3FF&sideNums=EDE9FE&dates=94A3B8" width="49%" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=DDD6FE&icon_color=7C3AED" width="55%" alt="Top languages"/>
 </p>
 
 ---
 
-## Contribution Snake
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshitraj123&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🌌 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitraj123&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/output/github-contribution-grid-snake.svg" width="98%" alt="GitHub contribution snake animation"/>
   </picture>
 </p>
 
 ---
 
-## Current Focus
+## 🧭 Current Focus
 
 ```yaml
-learning:
-  - Data Structures & Algorithms
-  - Retrieval-Augmented Generation
+Learning:
+  - Generative AI
+  - LLM Engineering
+  - RAG
   - Agentic AI
-  - Full-Stack Development
-
-building:
-  - AI-powered applications
-  - Multi-agent workflows
-  - AI + Full-Stack systems
-
-exploring:
   - MCP
-  - Google ADK
   - LangGraph
   - FastAPI
-  - Production-oriented AI engineering
 
-open_to:
+Building:
+  - AI-powered applications
+  - Full-stack AI products
+  - ML projects
+  - Multi-agent workflows
+
+Exploring:
+  - AI Engineering
+  - Retrieval Systems
+  - Agent Architecture
+  - AI + Full-Stack Product Development
+  - Scalable Backend Systems
+
+Open To:
   - Data Science Internships
   - AI/ML Internships
   - GenAI / AI Engineering Internships
@@ -471,15 +397,29 @@ open_to:
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:harshitraj13579@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshitraj010204">
+    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Harshitraj123">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/Harshitraj123/Portfolio-">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:6D28D9,100:312E81&height=120&section=footer&animation=twinkling" width="100%"/>
+---
 
-<p align="center"><i>Build systems that turn ideas into useful software.</i></p>
+<p align="center">
+  <strong>“Build with purpose. Engineer with depth. Ship what matters.”</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=120&section=footer" width="100%" alt="Footer banner"/>
+</p>
