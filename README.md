@@ -42,6 +42,24 @@ I care about reproducible workflows, structured outputs, testing, security check
 
 ---
 
+## Profile Snapshot
+
+| | |
+|---|---|
+| 🔬 **Core** | Data Science · Machine Learning · AI/ML |
+| 🤖 **AI** | GenAI · LLMs · RAG · Agentic AI · Multimodal AI |
+| 🧠 **Frameworks** | LangChain · LangGraph · Google ADK · MCP |
+| 🌐 **Frontend** | HTML · CSS · JavaScript · React |
+| 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB |
+| 🐍 **Primary Language** | Python |
+| 🧩 **Problem Solving** | Data Structures & Algorithms |
+| 🎯 **Status** | Building · Learning · Shipping |
+| 💼 **Looking For** | Data Science · AI/ML · GenAI · Full-Stack Internships |
+
+---
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -51,7 +69,7 @@ I care about reproducible workflows, structured outputs, testing, security check
 
 ### Data Science & ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn" alt="Data science and ML"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="Data science and ML"/>
 </p>
 
 <p align="center">
@@ -303,6 +321,39 @@ Individual, project-based Data Science internship spanning analytics, machine le
 <p align="center">
   <sub>Personal coding-profile URLs are intentionally not guessed; platform buttons above link to the corresponding services.</sub>
 </p>
+
+---
+
+## Data Structures & Algorithms
+
+Strengthening problem-solving fundamentals through structured DSA practice.
+
+`Arrays` · `Linked Lists` · `Binary Search` · `Recursion`  
+`Trees` · `Graphs` · `Dynamic Programming` · `Greedy`  
+`Heaps` · `Tries` · `Sliding Window` · `Stacks & Queues`  
+`Bit Manipulation` · `Strings`
+
+### Learning Direction
+
+```text
+Data Science
+    ↓
+Machine Learning
+    ↓
+Deep Learning / NLP
+    ↓
+Generative AI
+    ↓
+LLMs
+    ↓
+RAG
+    ↓
+Agentic AI
+    ↓
+MCP / Multi-Agent Systems
+    ↓
+AI + Full-Stack Applications
+```
 
 ---
 
