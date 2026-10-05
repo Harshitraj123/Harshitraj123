@@ -75,16 +75,19 @@ I am particularly interested in the complete product lifecycle: understanding th
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="48" height="48" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="48" height="48" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Google%20ADK-4338CA?style=flat-square&logo=google&logoColor=white" alt="Google ADK"/>
-  <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-312E81?style=flat-square&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Chroma-4C1D95?style=flat-square&logoColor=white" alt="Chroma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" width="48" height="48" alt="Ollama"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langgraph/langgraph-original.svg" width="48" height="48" alt="LangGraph"/>
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/google-adk.svg" width="48" height="48" alt="Google ADK"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/mcp.svg" width="48" height="48" alt="MCP"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/rag.svg" width="48" height="48" alt="RAG"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/faiss.svg" width="48" height="48" alt="FAISS"/>
+  <img src="https://raw.githubusercontent.com/Harshitraj123/Harshitraj123/main/assets/icons/chroma.svg" width="48" height="48" alt="Chroma"/>
 </p>
 
 ### 🧠 Data Science & ML
