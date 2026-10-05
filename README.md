@@ -35,6 +35,12 @@ My work spans data analysis and supervised ML through **LLMs, RAG, agentic workf
 
 I care about reproducible workflows, structured outputs, testing, security checkpoints, and turning research concepts into usable products.
 
+### Coding Mode
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Designing+AI+workflows;Building+RAG+%26+agentic+systems;Turning+models+into+software" alt="Coding mode animation"/>
+</p>
+
 ### Open To
 
 **Data Science Internships · AI/ML Internships · GenAI / AI Engineering Internships · Full-Stack Internships**
@@ -87,7 +93,13 @@ I care about reproducible workflows, structured outputs, testing, security check
 
 ### Backend, Databases & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb,redis,docker,git,github,vscode" alt="Backend databases and tooling"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb,redis,docker,git,github,vscode" alt="Backend databases and tooling"/>
+</p>
+
+### Web Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,firebase" alt="Web ecosystem"/>
 </p>
 
 ### GenAI, Agents & Retrieval
@@ -308,6 +320,22 @@ Individual, project-based Data Science internship spanning analytics, machine le
 
 ---
 
+## Open Source
+
+I maintain public repositories spanning **AI research agents, multi-agent systems, RAG applications, supervised machine learning, and data analytics**.
+
+<p align="center">
+  <a href="https://github.com/Harshitraj123/AI-Research-Synthesizer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=AI-Research-Synthesizer&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="AI Research Synthesizer"/></a>
+  <a href="https://github.com/Harshitraj123/AI-Research-Deep-Agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=AI-Research-Deep-Agent&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="AI Research Deep Agent"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Harshitraj123/elderly-care-assistant"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=elderly-care-assistant&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="Elderly Care Assistant"/></a>
+  <a href="https://github.com/Harshitraj123/Telecom-Customer-Churn-Prediction"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=Telecom-Customer-Churn-Prediction&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="Telecom Customer Churn Prediction"/></a>
+</p>
+
+---
+
 ## Coding Profiles
 
 <p align="center">
@@ -359,12 +387,12 @@ AI + Full-Stack Applications
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitraj123&show_icons=true&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Harshitraj123&show_icons=true&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=Harshitraj123&theme=tokyonight&hide_border=true&border_radius=14&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top languages"/>
 </p>
 
 ---
