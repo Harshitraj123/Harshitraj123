@@ -348,70 +348,30 @@ Individual, project-based Data Science internship spanning analytics, machine le
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=unicorn&animation=true&cache=0" width="100%" alt="Animated LeetCode statistics for Harsheys_26"/>
-  </a>
+  <a href="https://leetcode.com/u/Harsheys_26/"><img src="https://img.shields.io/badge/LeetCode-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/"><img src="https://img.shields.io/badge/LEETCODE-Harsheys__26-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
 
-### ⚙️ Building Algorithms
+<a href="https://leetcode.com/u/Harsheys_26/">
+  <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="400" alt="Harsheys_26 LeetCode statistics"/>
+</a>
 
-<table align="center">
-<tr>
-<td width="33%">
+    </td>
+    <td align="center" width="50%" valign="middle">
 
-**🧩 Foundations**
+<a href="https://leetcode.com/u/Harsheys_26/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=400&lines=Building+Algorithms...;Solving+Complex+DSA;Optimizing+Time+Complexity;Continuous+Learning" alt="Building algorithms animation"/>
+</a>
 
-Arrays · Strings · Linked Lists
-
-</td>
-<td width="33%">
-
-**🔎 Search**
-
-Binary Search · Sliding Window
-
-</td>
-<td width="33%">
-
-**🌳 Trees & Graphs**
-
-Trees · Heaps · Tries · Graphs
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-**🧠 Advanced**
-
-Dynamic Programming · Greedy
-
-</td>
-<td width="33%">
-
-**🔢 Core**
-
-Bit Manipulation · Stacks · Queues
-
-</td>
-<td width="33%">
-
-**🎯 Goal**
-
-Consistency · Patterns · Efficiency
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
-[Open LeetCode Profile →](https://leetcode.com/u/Harsheys_26/)
 
 ---
 
