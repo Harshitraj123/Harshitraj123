@@ -344,12 +344,6 @@ Worked in a practical data science environment focused on applying analytical an
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=Harshitraj123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
-</p>
-
 ---
 
 ## 🌌 Contribution Activity
