@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=HARSHIT%20RAJ&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20AI%2FML%20%7C%20GENAI%20%7C%20FULL-STACK&descSize=18&descAlignY=68" width="100%"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./light.svg" width="100%" alt="Harshit Raj GitHub Profile Banner">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
