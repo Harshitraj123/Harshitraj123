@@ -324,9 +324,7 @@ Worked in a practical data science environment focused on applying analytical an
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Harsheys_26/">
-    <img src="https://leetcard.jacoblin.cool/Harsheys_26?theme=dark&font=Fira%20Code" width="72%" alt="LeetCode statistics"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=900&color=FFA116&center=true&vCenter=true&width=700&height=100&lines=Solving+Complex+DSA;Building+Better+Algorithms;Optimizing+Time+%26+Space;One+Problem+At+A+Time" alt="DSA animation"/>
 </p>
 
 ---
