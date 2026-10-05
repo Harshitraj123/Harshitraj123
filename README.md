@@ -1,10 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./light.svg" width="100%" alt="Harshit Raj GitHub Profile Banner">
-  </picture>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=HARSHIT%20RAJ&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20AI%2FML%20%7C%20GENAI%20%7C%20FULL-STACK&descSize=18&descAlignY=68" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
@@ -20,9 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
@@ -40,12 +35,6 @@ I am a **3rd-year Computer Science Engineering student at BMS Institute of Techn
 My work spans data analysis and supervised ML through **LLMs, RAG, agentic workflows, multi-agent systems, MCP, and Google ADK**. I am also strengthening frontend and backend skills so that AI ideas become complete, deployable applications rather than isolated notebooks.
 
 I care about reproducible workflows, structured outputs, testing, security checkpoints, and turning research concepts into usable products.
-
-### Coding Mode
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&height=45&lines=Designing+AI+workflows;Building+RAG+%26+agentic+systems;Turning+models+into+software" alt="Coding mode animation"/>
-</p>
 
 ### Open To
 
@@ -99,13 +88,7 @@ I care about reproducible workflows, structured outputs, testing, security check
 
 ### Backend, Databases & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb,redis,docker,git,github,vscode" alt="Backend databases and tooling"/>
-</p>
-
-### Web Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,firebase" alt="Web ecosystem"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,mongodb,redis,docker,git,github,vscode" alt="Backend databases and tooling"/>
 </p>
 
 ### GenAI, Agents & Retrieval
@@ -326,22 +309,6 @@ Individual, project-based Data Science internship spanning analytics, machine le
 
 ---
 
-## Open Source
-
-I maintain public repositories spanning **AI research agents, multi-agent systems, RAG applications, supervised machine learning, and data analytics**.
-
-<p align="center">
-  <a href="https://github.com/Harshitraj123/AI-Research-Synthesizer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=AI-Research-Synthesizer&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="AI Research Synthesizer"/></a>
-  <a href="https://github.com/Harshitraj123/AI-Research-Deep-Agent"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=AI-Research-Deep-Agent&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="AI Research Deep Agent"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshitraj123/elderly-care-assistant"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=elderly-care-assistant&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="Elderly Care Assistant"/></a>
-  <a href="https://github.com/Harshitraj123/Telecom-Customer-Churn-Prediction"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Harshitraj123&repo=Telecom-Customer-Churn-Prediction&theme=tokyonight&hide_border=true&border_radius=12&title_color=8B5CF6" alt="Telecom Customer Churn Prediction"/></a>
-</p>
-
----
-
 ## Coding Profiles
 
 <p align="center">
@@ -393,12 +360,12 @@ AI + Full-Stack Applications
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Harshitraj123&show_icons=true&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitraj123&show_icons=true&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=Harshitraj123&theme=tokyonight&hide_border=true&border_radius=14&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitraj123&layout=compact&langs_count=10&hide_border=true&border_radius=14&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top languages"/>
 </p>
 
 ---
@@ -460,9 +427,10 @@ open_to:
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:harshitraj13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshitraj010204"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Harshitraj123"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Harshitraj123/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:6D28D9,100:312E81&height=120&section=footer&animation=twinkling" width="100%"/>
